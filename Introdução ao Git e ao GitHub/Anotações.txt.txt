@@ -1,0 +1,12 @@
+Link para download do GitHub: https://git-scm.com/downloads
+Link para download do VSCode: https://code.visualstudio.com/
+
+Commits no repositório local com email e nickname diferentes dos utilizados no GitHub = os commits aparecem com email e nickname diferentes no GitHub
+Comando Git init = inicia um repositório git dentro da pasta
+dir (Windows) e Is (Linux) = retornam uma lista com o conteúdo contido no diretório
+Sistema distribuído: possui múltiplas cópias em diferentes locais
+Ambiente de desenvolvimento : local
+Servidor: remoto
+Arquivo Markdown: usa caracteres especiais para formatar texto (#)
+git clone: clone do repositório remoto no repositório local
+GIT = Sistema de versionamento de código distribuído
